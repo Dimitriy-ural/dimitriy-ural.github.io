@@ -1,4 +1,4 @@
-<!-- <script>
+<script>
     const avatarImg = document.querySelector('.avatar img');
     
     avatarImg.addEventListener('mouseenter', function() {
@@ -8,4 +8,4 @@
     avatarImg.addEventListener('mouseleave', function() {
         this.src = 'img/avatar.jpeg';
     });
-</script> -->
+</script>
